@@ -1,0 +1,18 @@
+<?xml version=1.0 standalone=no?>
+<!DOCTYPE svg PUBLIC -//W3C//DTD SVG 1.1//EN
+http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd>
+<svg>
+<circle cx=26 cy=34 r=5 fill=purple />
+<ellipse cx=16 cy=19 rx=5 ry=3 fill=green />
+<rect x=11 y=14 width=10 height=10 fill=pink />
+<circle cx=17 cy=46 r=5 fill=aqua />
+<circle cx=11 cy=14 r=5 fill=red />
+<circle cx=16 cy=21 r=1 fill=red />
+<circle cx=46 cy=29 r=8 fill=green />
+<circle cx=46 cy=14 r=5 fill=red />
+<circle cx=31 cy=44 r=5 fill=red />
+<circle cx=19 cy=44 r=5 fill=red />
+<circle cx=19 cy=41 r=5 fill=red />
+<circle cx=43 cy=14 r=5 fill=red />
+<circle cx=42 cy=14 r=5 fill=red />
+</svg>
